@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "watersource:block/create_water_filter"
+    }
+  }
+}

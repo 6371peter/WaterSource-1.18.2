@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "watersource",
+  "pattern": [
+    " S ",
+    "ABA",
+    " C "
+  ],
+  "key": {
+    "S": {"item": "minecraft:heart_of_the_sea"},
+    "A": {"tag": "forge:glass_panes"},
+    "B": {"item": "create:copper_casing"},
+    "C": {"tag": "forge:plates/copper"}
+  },
+  "result": {
+    "item": "watersource:create_water_filter"
+  }
+}
